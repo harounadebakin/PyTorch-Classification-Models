@@ -55,11 +55,6 @@ pip install torch torchvision matplotlib numpy
 - Learn how to train and evaluate models
 - Explore image classification with CNNs
 
-## Future Improvements
-- Add training with GPU support
-- Integrate TensorBoard for visualization
-- Save and load models using `torch.save`
 
----
-Feel free to contribute or adapt these notebooks for your own deep learning experiments!
+
 
